@@ -1,4 +1,4 @@
-# Agile Project Management Web App
+# Agile Project Management Web App ![License](https://img.shields.io/badge/license-NPPL--1.0-red)
 
 A real time Agile Project Management platform for development teams using scrum or kanban methodologies. Built with Nextjs 15, Typescript, Tailwindcss, Motion, Zustand, Zod, PostgreSQL, Drizzle-orm and more.
 
@@ -42,3 +42,7 @@ A real time Agile Project Management platform for development teams using scrum 
 - PostgreSQL
 - SWR for data fetching
 - Sentry for error tracking
+
+## License
+
+This project is licensed under the **NON-PROPRIETARY PUBLIC LICENSE (NPPL) v1.0**. See the [LICENSE.md](LICENSE.md) file for details.

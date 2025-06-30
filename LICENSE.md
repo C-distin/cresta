@@ -1,53 +1,50 @@
 # NON-PROPRIETARY PUBLIC LICENSE (NPPL) v1.0
 
-copyirght (c) 2025 [Patrick Amartey Annang / Cresta]
+Copyright (c) 2025 [Patrick Amartey Annang / Cresta]
 
 ## Preamble
 
-This purpose of this license is to encourage the free use, study, and modification of this software in personal, academic and open-source contexts, while preventing its use in closed-source or proprietary software systems.
+The purpose of this license is to encourage the free use, study, and modification of this software in personal, academic, and open-source contexts, while prohibiting its use in closed-source or proprietary commercial software systems.
 
-This license is not a copyright license, but a license for the use of the software, and not the software itself.
+This document constitutes a license agreement governing the use of the software, granted by the copyright holders.
 
-## Grant of Use
+## Grant of License
 
-You may use, study, and modify this software and its source code, provided the following conditions are met:
+Subject to the terms and conditions of this license, the copyright holder grants you a worldwide, royalty-free, non-exclusive, perpetual license to use, study, copy, modify, and distribute the software.
 
-1. ### Permited Use
+### 1. Permitted Use
 
-You may use this software for:
+You are permitted to use this software for the following purposes:
 
-- personal or academic purposes
-- Non-commercial research and educational use
-- Inclusion in other open-source projects under compatible licenses
-- Commercial use only if the resulting product is released under a compatible license
+- Personal, academic, non-commercial research, and educational use.
+- Inclusion in other open-source projects, provided they are distributed under a compatible license.
+- Commercial use, provided the resulting product and its entire source code are released under this license or a compatible open-source license.
 
-2. ### Conditions of Distribution
+### 2. Conditions of Distribution
 
-You may redistribute original or modified copies of this software, provided:
+You may redistribute original or modified copies of this software, provided that the following conditions are met:
 
-- The full source code is provided
-- This license is not removed or altered from any source distribution
-- Any modifications are clearly documented
+- The complete and corresponding source code must be made available with the distribution.
+- This license agreement must be included with the software and must not be removed or altered from any source distribution.
+- Any modifications made to the original software must be clearly and conspicuously documented.
 
-3. ### Prohibited Uses
+### 3. Prohibited Uses
 
-You may not use, study, or modify this software for any of the following:
+You are expressly prohibited from using, studying, or modifying this software for any of the following purposes:
 
-- proprietary software
-- Closed-source software
-- Commercial use or platforms that do not publish their source code under a compatible license
-- Software-as-a-service platforms that do not release their full backend source code
+- Integration into any proprietary or closed-source software.
+- Commercial use in platforms or products that do not release their full source code under a compatible open-source license. This includes, but is not limited to, Software-as-a-Service (SaaS) platforms that do not make their complete backend source code publicly available.
 
-4. ### No Warranty
+### 4. Disclaimer of Warranty
 
-This software is provided "as is" without warranty of any kind, either express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. The authors and contributors shall not be held liable for any damages or legal claims arising from the use of this software.
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-5. ### License Compatibility
+### 5. License Compatibility
 
-This software is comaptible with:
+This license is compatible with other "copyleft" licenses that require derived works to be released under similar terms. Compatible licenses include, but are not limited to:
 
-- [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.html) or other similar licenses
+- GNU General Public License v3.0 (GPL-3.0) or later.
 
-6. ### Trademark and Attribution
+### 6. Trademark and Attribution
 
-You may not use the name, branding or trademarks of the authors or contributors without explicit permission from the authors or contributors.
+You may not use the names, logos, or trademarks of the copyright holders or contributors to endorse or promote products derived from this software without specific prior written permission.
