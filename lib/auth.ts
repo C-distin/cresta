@@ -24,6 +24,7 @@ export const auth = betterAuth({
         return await argon2.verify(hash, password)
       },
     },
+  },
 
     user: {
       deleteUser: {
@@ -56,4 +57,4 @@ export const auth = betterAuth({
     },
 
     plugins: [nextCookies()],
-  })
+});
